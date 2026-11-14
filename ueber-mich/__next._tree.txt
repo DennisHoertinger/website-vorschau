@@ -1,0 +1,5 @@
+:HL["/website-vorschau/_next/static/chunks/40plrqjzeggw4.css","style"]
+:HL["/website-vorschau/_next/static/media/Inter_Variable_Latin-s.p.0gsaq8ukbf34m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"ueber-mich","h":96,"c":"$Q2"}]]
+0:{"b":"trmk9PwbvUljh9pyg58cw","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
